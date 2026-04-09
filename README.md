@@ -13,6 +13,8 @@ L'objectif principal est de démontrer la maîtrise de Git et GitHub :
 - hooks
 - intégration continue
 - organisation du dépôt
+- l'intégration continue avec GitHub Actions
+
 
 ## Structure du projet
 - `index.html` : page principale
