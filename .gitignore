@@ -1,0 +1,7 @@
+plans/
+brouillons/
+exports/
+
+*.log
+.DS_Store
+Thumbs.db
