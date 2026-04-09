@@ -22,3 +22,4 @@ L'objectif principal est de démontrer la maîtrise de Git et GitHub :
 
 ## Auteur
 Ilies El Marhouli
+Test de PR pour vérifier la protection de branche.
