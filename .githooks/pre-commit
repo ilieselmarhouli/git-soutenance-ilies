@@ -1,0 +1,10 @@
+#!/bin/sh
+echo "Vérification HTML avec djLint..."
+python3 -m djlint index.html --profile=html --lint
+
+if [ $? -ne 0 ]; then
+  echo "Le linter a détecté une erreur. Commit annulé."
+  exit 1
+fi
+
+exit 0
