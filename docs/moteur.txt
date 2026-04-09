@@ -1,1 +1,3 @@
-Le moteur permet de faire fonctionner le véhicule.
+Le moteur permet de produire l'énergie nécessaire au déplacement du véhicule.
+Il transforme une source d'énergie en mouvement mécanique.
+C'est un élément central du fonctionnement de la voiture.
