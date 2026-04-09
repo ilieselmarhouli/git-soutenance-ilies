@@ -1,1 +1,3 @@
 Le volant permet au conducteur de diriger la voiture.
+Il transmet les mouvements de direction aux roues avant.
+Il est indispensable au pilotage du véhicule.
